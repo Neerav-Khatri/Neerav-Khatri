@@ -40,9 +40,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Neerav-Khatri&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Neerav-Khatri&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neerav-Khatri&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Neerav-Khatri&theme=vue&hide_border=false&include_all_commits=true&count_private=true&border_radius=15)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Neerav-Khatri&theme=vue&hide_border=false&border_radius=15)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neerav-Khatri&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=15)
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=neerav-khatri&theme=vue&bg_color=FFFFFF&line=86C232&point=222629&hide_border=true)
 
 ## 🏆 GitHub Trophies
